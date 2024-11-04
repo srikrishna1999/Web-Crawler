@@ -1,0 +1,77 @@
+url, error
+https://www.paypalcasinos.nz, <urlopen error [SSL] record layer failure (_ssl.c:1000)>
+https://tepūkenga.ac.nz/programme/search, 'latin-1' codec can't encode character '\u016b' in position 3: ordinal not in range(256)
+https://www.westpac.co.nz/personal-loans/, The read operation timed out
+https://tepūkenga.ac.nz/privacy-notice, 'latin-1' codec can't encode character '\u016b' in position 3: ordinal not in range(256)
+https://tepūkenga.ac.nz/about-us/, 'latin-1' codec can't encode character '\u016b' in position 3: ordinal not in range(256)
+https://www.wintec.ac.nz/about-wintec/wintec-te-pūkenga, 'ascii' codec can't encode character '\u016b' in position 29: ordinal not in range(128)
+https://comcom.govt.nz/regulated-industries/telecommunications/monitoring-the-telecommunications-market/monitoring-new-zealands-broadband, <urlopen error _ssl.c:983: The handshake operation timed out>
+https://www.educationcounts.govt.nz/find-school/schools?district=70®ion=14, 'ascii' codec can't encode character '\xae' in position 36: ordinal not in range(128)
+https://www.regionalbusinesspartners.co.nz/, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://agaapps.co.nz/sp, <urlopen error timed out>
+https://www.travelex.co.nz/stores/queenstown-clocktower/1323, The read operation timed out
+https://forum.gamblinghelpline.co.nz/forum, <urlopen error timed out>
+https://www.nzherald.co.nznull, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.minedu.govt.nz, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://prowze.co.nz/, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.prowze.co.nz/, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://www.police.govt.nz/about-us/publications-statistics, The read operation timed out
+https://bbs.mpages.co.nz/forum.php?mobile=no, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://mb.mpages.co.nz, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://info.health.nz/immunisations/vaccines-aotearoa/covid-19-vaccines/, The read operation timed out
+https://www.spark.co.nz/business/shop/internet/cloudmanagednetwork/, The read operation timed out
+http://www.greenstoneentertainment.co.nz/ticket-info/, timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/health-and-wellbeing/nursing/enrolled-nursing-(nēhi-whakauru), 'ascii' codec can't encode character '\u0113' in position 77: ordinal not in range(128)
+https://www.wintec.ac.nz/study-at-wintec/courses/foundation/te-ara-pūtake-my-academic-pathway, 'ascii' codec can't encode character '\u016b' in position 48: ordinal not in range(128)
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/master-of-applied-information-technology-(level-9), The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/postgraduate-diploma-in-applied-information-technology-(level-8), The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/postgraduate-diploma-in-applied-informatics, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/postgraduate-certificate-in-applied-information-technology-(level-8), The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/graduate-diploma-in-applied-information-technology, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/bachelor-of-applied-information-technology, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/new-zealand-diploma-in-information-technology-technical-support, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/new-zealand-certificate-in-information-technology-(level-5), The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/short-course-cisco-certified-network-associate-(ccna), The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/certificate-in-computing-(level-3), The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/information-technology/basic-computing-(space), The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/business/master-of-applied-management, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/business/postgraduate-certificate-and-diploma-in-applied-management, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/business/graduate-diploma-in-supply-chain-logistics, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/business/graduate-diploma-in-māori-enterprise, 'ascii' codec can't encode character '\u0101' in position 59: ordinal not in range(128)
+https://www.wintec.ac.nz/study-at-wintec/courses/business/first-line-management-4, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/business/introduction-to-team-leadership-3, The read operation timed out
+https://learning.wintec.ac.nz/course/view.php?id=9301§ion=0, 'ascii' codec can't encode character '\xa7' in position 28: ordinal not in range(128)
+https://www.wintec.ac.nz/professional-programmes/compliance, The read operation timed out
+https://www.wintec.ac.nz/about-wintec/news/article/2024/09/02/wintec-wāhine-inspire-next-generation, 'ascii' codec can't encode character '\u0101' in position 50: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/news/article/2024/09/06/adult-ākonga-recognised-at-wintec-awards, 'ascii' codec can't encode character '\u0101' in position 48: ordinal not in range(128)
+https://queenstowntrail.co.nz/, <urlopen error [Errno 61] Connection refused>
+https://www.wintec.ac.nz/about-wintec/industry-and-community/services-for-the-public, The read operation timed out
+https://www.wintec.ac.nz/remote.axd?wintecprodpublicwebsite.blob.core.windows.net/sitefinity-storage/images/default-source/about-wintec/windows/cookery-preparing-food.jpg?sfvrsn=bccbc233_4&width=1146&mode=crop&upscale=false&quality=75, The read operation timed out
+https://www.wintec.ac.nz/remote.axd?wintecprodpublicwebsite.blob.core.windows.net/sitefinity-storage/images/default-source/about-wintec/windows/mixing-food.jpg?sfvrsn=bdcbc233_4&width=1146&mode=crop&upscale=false&quality=75, The read operation timed out
+https://www.wintec.ac.nz/remote.axd?wintecprodpublicwebsite.blob.core.windows.net/sitefinity-storage/images/default-source/about-wintec/windows/serving-drinks.jpg?sfvrsn=b1cbc233_4&width=1146&mode=crop&upscale=false&quality=75, The read operation timed out
+https://www.wintec.ac.nz/remote.axd?wintecprodpublicwebsite.blob.core.windows.net/sitefinity-storage/images/default-source/about-wintec/windows/taking-orders.jpg?sfvrsn=b0cbc233_4&width=1146&mode=crop&upscale=false&quality=75, The read operation timed out
+https://www.wintec.ac.nz/student-resources/support-services/meet-the-team#kidz, The read operation timed out
+https://www.wintec.ac.nz#team, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/service-industry/beauty-therapy-old, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/hairdressing, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/secondary-schools/overview/waikato-trades-academy-programmes/café-skills-(level-2), 'ascii' codec can't encode character '\xe9' in position 85: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/hear-from-our-graduates/wendy-crawford, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/hear-from-our-graduates/murphy-firia-zama, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/hear-from-our-graduates/ellyn-proffit, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/hear-from-our-graduates/ramari-kauluwehi, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/hear-from-our-graduates/marrin-haggie, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/hear-from-our-graduates, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/maori-and-pasifika-trade-training, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/community-links, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/scholarships, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/wintec-marae/marae-carvings, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/wintec-marae/marae-wharekai, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/wintec-marae/marae-wharenui, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori/wintec-marae, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/māori, 'ascii' codec can't encode character '\u0101' in position 19: ordinal not in range(128)
+https://www.wintec.ac.nz/student-resources/support-services/āniwaniwa-alliance, 'ascii' codec can't encode character '\u0101' in position 40: ordinal not in range(128)
+https://www.wintec.ac.nz/about-wintec/news/11, The read operation timed out
+https://www.fyi.org.nz/request/27553-overseas-travel#incoming-108108, Invalid IPv6 URL
+https://www.wintec.ac.nz#video, The read operation timed out
+https://www.wintec.ac.nz/study-at-wintec/courses/art-and-design/bachelor-of-contemporary-art, The read operation timed out
+https://tepūkenga.ac.nz/privacy-notice/, 'latin-1' codec can't encode character '\u016b' in position 3: ordinal not in range(256)

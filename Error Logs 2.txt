@@ -1,0 +1,28 @@
+url, error
+https://www.asb.co.nz/, The read operation timed out
+https://join.stjohn.org.nz/jobdetails/ajid/1nXua/Community-Carer-Volunteer-Auckland-Summerset-,50466, <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)>
+https://www.pjspie.co.nz/, <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pjspies.co.nz'. (_ssl.c:1000)>
+https://www.selwyn.govt.nz/, <urlopen error _ssl.c:983: The handshake operation timed out>
+https://mudducks.co.nz/, <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>
+http://www.cscnz.org.nz, The read operation timed out
+http://www.gr8mates.org.nz, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://www.uptowntattoo.co.nz/, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.dol.govt.nz/workplace/knowledgebase/item/1355, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://www.booking.interislander.co.nz/login.aspx, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://www.kiwirail.co.nz , URL can't contain control characters. 'www.kiwirail.co.nz ' (found at least ' ')
+https://shop.stjohn.org.nz/, <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)>
+https://matakanarivertours.co.nz/#tours, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+http://www.tossi.org.nz/, The read operation timed out
+https://aedlocations.co.nz/, 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+https://www.penguin.co.nz/books/new-super-man-vol-2-coming-to-america-rebirth-9781401273903, Remote end closed connection without response
+http://www.dol.govt.nz, <urlopen error [Errno 8] nodename nor servname provided, or not known>
+https://aedlocations.co.nz/form/, 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+https://join.stjohn.org.nz/role/siid/3prhb/170, <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)>
+https://www.penguin.co.nz/books/cook-once-eat-twice-9780241620076, The read operation timed out
+https://www.penguin.co.nz/books/hiakai-9780143772606, The read operation timed out
+https://www.penguin.co.nz/authors/gabor-mate, The read operation timed out
+https://www.penguin.co.nz/books/the-myth-of-normal-9781785042737, The read operation timed out
+https://www.penguin.co.nz/books/the-history-of-philosophy-9780241304549, The read operation timed out
+https://www.penguin.co.nz/books/a-short-history-of-nearly-everything-9781784161859, The read operation timed out
+https://www.penguin.co.nz/books/the-girls-9781473507890, The read operation timed out
+https://www.booking.interislander.co.nz/booking/travel-details.aspx, <urlopen error [Errno 8] nodename nor servname provided, or not known>
